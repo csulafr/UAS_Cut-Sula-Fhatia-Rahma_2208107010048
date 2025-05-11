@@ -86,6 +86,5 @@ GEMINI_API_KEY=your_api_key_here
 
 ## 📋 Hasil dan Tampilan Frontend
 
-- Evaluasi Model <br>
 ![Screenshot](images/Screenshot-hasil-1.png) <br>
 ![Screenshot](images/Screenshot-hasil-2.png)
